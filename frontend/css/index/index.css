@@ -1,0 +1,9 @@
+#capture {
+    display: none;
+}
+
+#snapshot {
+    display: inline-block;
+    width: 320px;
+    height: 240px;
+}
